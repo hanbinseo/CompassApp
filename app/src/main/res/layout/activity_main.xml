@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <android.studio.practice.compassapp.AzimuthView
+        android:id="@+id/compassView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 
